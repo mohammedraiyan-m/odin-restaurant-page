@@ -18,6 +18,7 @@ export default function createHomeTab(container) {
                     <p>🍚 Pork Adobo Rice Bowl — ₱230</p>
                     <p>🍚 Pork Adobo Rice Bowl — ₱230</p>
                     <p>🍚 Pork Adobo Rice Bowl — ₱230</p>
+                    <p>🍚 Pork Adobo Rice Bowl — ₱230</p>
     `
                     
     container.appendChild(heading);
