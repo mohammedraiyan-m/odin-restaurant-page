@@ -1,0 +1,56 @@
+.main-content {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: center;
+  background-color: antiquewhite;
+}
+.bar {
+  background-color: rgb(255, 255, 0);
+  border: 8px solid rgb(165, 87, 42);
+  padding: 8px 20px;
+  border-radius: 15px;
+}
+button {
+  padding: 8px 15px;
+  margin: 20px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: rgb(189, 98, 45);
+  border: none;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+button:hover {
+  background-color: rgb(189, 98, 45);
+  color: aliceblue;
+}
+#content {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: hsla(353, 6%, 72%, 0.692);
+  padding: 5px 50px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.imgshope {
+  width: 600px;
+  border-radius: 10px;
+  padding-bottom: 20px;
+}
+nav {
+  text-align: center;
+}
+.hours {
+  text-align: center;
+  padding-right: 10px;
+}
+.bear {
+  padding: 5px 50px;
+  background-color: azure;
+  margin: 20px;
+  border-radius: 10px;
+}
